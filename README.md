@@ -14,6 +14,7 @@
 <li>kernel <em>logical addresses</em> are a range of addresses that permanently map and contiguous(Low Memory)</li>
 <li>kernel&nbsp;<em>virtual</em> addresses(used with&nbsp;<em>vmalloc</em>)<em>&nbsp;are not permanently mapped</em>&nbsp;and not contiguous(<em>High Memory)</em></li>
 <li>good video explaining about high/low memory&nbsp;<a href="https://www.youtube.com/watch?v=7aONIVSXiJ8">https://www.youtube.com/watch?v=7aONIVSXiJ8</a></li>
+<li>virtual to physical translation code: https://stackoverflow.com/questions/36639607/how-exactly-do-kernel-virtual-addresses-get-translated-to-physical-ram</li>
 <li>the above is applicable to 32bit architecture</li>
 </ul>
 </li>
