@@ -7,3 +7,8 @@
 </ul>
 </li>
 </ul>
+
+<ul>
+<li>kernel uses only virtual adress</li>
+<li>good video explaining about high/low memory&nbsp;<a href="https://www.youtube.com/watch?v=7aONIVSXiJ8">https://www.youtube.com/watch?v=7aONIVSXiJ8</a></li>
+</ul>
